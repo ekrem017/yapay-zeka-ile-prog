@@ -1,0 +1,50 @@
+[
+    {
+        "urun_kodu": "URN-0001",
+        "urun_adi": "Mavi Kamp Çantası",
+        "kategori": "Outdoor & Kamp / Çantalar",
+        "seo_etiketleri": [
+            "mavi kamp çantası",
+            "kamp çantası",
+            "outdoor sırt çantası",
+            "doğa yürüyüşü çantası",
+            "kamp ekipmanları"
+        ],
+        "satis_aciklamasi": "Doğa yürüyüşleri ve kamp maceralarınız için ideal bir yol arkadaşı olan mavi kamp çantası, açık hava aktivitelerinizde eşyalarınızı pratik bir şekilde taşımanızı sağlar. Doğada geçirdiğiniz her anı daha konforlu kılmak için tasarlanan bu şık çanta ile outdoor deneyiminizin keyfini çıkarın.",
+        "urun_aciklamasi": "mavi kamp cantasi",
+        "fiyat": 2345.0,
+        "stok": 4
+    },
+    {
+        "urun_kodu": "URN-0002",
+        "urun_adi": "Mor Okul Çantası",
+        "kategori": "Çanta > Okul Çantası",
+        "seo_etiketleri": [
+            "mor okul çantası",
+            "okul çantası",
+            "mor sırt çantası",
+            "öğrenci çantası",
+            "mor çanta"
+        ],
+        "satis_aciklamasi": "Canlı mor rengiyle dikkat çeken bu okul çantası, okul günlerinde hem tarzını öne çıkarmak hem de günlük okul eşyalarını pratik bir şekilde taşımak isteyenler için ideal bir seçenektir. Hem şık hem de kullanışlı bir okul çantası arayanlar için tasarlandı.",
+        "urun_aciklamasi": "mor okul canta",
+        "fiyat": 342.0,
+        "stok": 65
+    },
+    {
+        "urun_kodu": "URN-0003",
+        "urun_adi": "Mavi Kamp Çantası",
+        "kategori": "Kamp & Doğa Sporları / Çantalar",
+        "seo_etiketleri": [
+            "mavi kamp çantası",
+            "kamp çantası",
+            "outdoor çanta",
+            "doğa yürüyüşü çantası",
+            "sırt çantası"
+        ],
+        "satis_aciklamasi": "Doğa yürüyüşleri ve kamp maceralarınız için tasarlanan mavi kamp çantası, eşyalarınızı pratik bir şekilde yanınızda taşımanızı sağlar. Canlı mavi rengiyle öne çıkan bu çanta, açık hava aktivitelerinizde kullanışlı bir yol arkadaşıdır.",
+        "urun_aciklamasi": "mavi kamp cantasi",
+        "fiyat": 324.0,
+        "stok": 45
+    }
+]
